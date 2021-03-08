@@ -1,6 +1,6 @@
 <?php
 
-namespace nebtdenfour;
+namespace nebtden;
 
 class Client
 {
